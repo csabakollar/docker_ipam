@@ -4,6 +4,7 @@ phpIPAM IP Address Management [v1.1] rev010 dockerized.
 * apache2
 * php5 with required modules
 * mysql-5.5 (no root password)
+
 ### Run ###
 ```
 docker run -dh ipam --name ipam -p 80:80 ipam
